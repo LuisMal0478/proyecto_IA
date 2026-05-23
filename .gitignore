@@ -1,0 +1,6 @@
+backend/.env
+backend/sql_app.db
+backend/__pycache__/
+venv/
+node_modules/
+dist/
